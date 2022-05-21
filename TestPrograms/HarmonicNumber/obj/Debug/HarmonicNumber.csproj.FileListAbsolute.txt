@@ -1,0 +1,6 @@
+E:\Visual_Studio\Regix\ConsoleApp1\HarmonicNumber\bin\Debug\HarmonicNumber.exe.config
+E:\Visual_Studio\Regix\ConsoleApp1\HarmonicNumber\bin\Debug\HarmonicNumber.exe
+E:\Visual_Studio\Regix\ConsoleApp1\HarmonicNumber\bin\Debug\HarmonicNumber.pdb
+E:\Visual_Studio\Regix\ConsoleApp1\HarmonicNumber\obj\Debug\HarmonicNumber.csproj.CoreCompileInputs.cache
+E:\Visual_Studio\Regix\ConsoleApp1\HarmonicNumber\obj\Debug\HarmonicNumber.exe
+E:\Visual_Studio\Regix\ConsoleApp1\HarmonicNumber\obj\Debug\HarmonicNumber.pdb

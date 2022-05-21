@@ -1,0 +1,7 @@
+E:\Visual_Studio\Regix\ConsoleApp1\Factors\bin\Debug\Factors.exe.config
+E:\Visual_Studio\Regix\ConsoleApp1\Factors\bin\Debug\Factors.exe
+E:\Visual_Studio\Regix\ConsoleApp1\Factors\bin\Debug\Factors.pdb
+E:\Visual_Studio\Regix\ConsoleApp1\Factors\obj\Debug\Factors.csproj.CoreCompileInputs.cache
+E:\Visual_Studio\Regix\ConsoleApp1\Factors\obj\Debug\Factors.exe
+E:\Visual_Studio\Regix\ConsoleApp1\Factors\obj\Debug\Factors.pdb
+E:\Visual_Studio\Regix\ConsoleApp1\Factors\obj\Debug\Factors.csproj.AssemblyReference.cache
