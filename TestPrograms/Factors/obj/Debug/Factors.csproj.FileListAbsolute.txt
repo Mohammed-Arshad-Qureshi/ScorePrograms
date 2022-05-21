@@ -5,3 +5,10 @@ E:\Visual_Studio\Regix\ConsoleApp1\Factors\obj\Debug\Factors.csproj.CoreCompileI
 E:\Visual_Studio\Regix\ConsoleApp1\Factors\obj\Debug\Factors.exe
 E:\Visual_Studio\Regix\ConsoleApp1\Factors\obj\Debug\Factors.pdb
 E:\Visual_Studio\Regix\ConsoleApp1\Factors\obj\Debug\Factors.csproj.AssemblyReference.cache
+E:\Visual_Studio\ProgramsTest\TestPrograms\Factors\bin\Debug\Factors.exe.config
+E:\Visual_Studio\ProgramsTest\TestPrograms\Factors\bin\Debug\Factors.exe
+E:\Visual_Studio\ProgramsTest\TestPrograms\Factors\bin\Debug\Factors.pdb
+E:\Visual_Studio\ProgramsTest\TestPrograms\Factors\obj\Debug\Factors.csproj.AssemblyReference.cache
+E:\Visual_Studio\ProgramsTest\TestPrograms\Factors\obj\Debug\Factors.csproj.CoreCompileInputs.cache
+E:\Visual_Studio\ProgramsTest\TestPrograms\Factors\obj\Debug\Factors.exe
+E:\Visual_Studio\ProgramsTest\TestPrograms\Factors\obj\Debug\Factors.pdb

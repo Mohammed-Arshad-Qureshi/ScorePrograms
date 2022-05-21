@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6EF0E376-B54A-49A1-9B57-C5454E840409}</ProjectGuid>
+    <ProjectGuid>{AB0C6EF4-0344-485B-9C1E-477D45AB0AD9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>HarmonicNumber</RootNamespace>
     <AssemblyName>HarmonicNumber</AssemblyName>

@@ -1,0 +1,6 @@
+E:\Visual_Studio\ProgramsTest\TestPrograms\DelegatesReuse\bin\Debug\DelegatesReuse.exe.config
+E:\Visual_Studio\ProgramsTest\TestPrograms\DelegatesReuse\bin\Debug\DelegatesReuse.exe
+E:\Visual_Studio\ProgramsTest\TestPrograms\DelegatesReuse\bin\Debug\DelegatesReuse.pdb
+E:\Visual_Studio\ProgramsTest\TestPrograms\DelegatesReuse\obj\Debug\DelegatesReuse.csproj.CoreCompileInputs.cache
+E:\Visual_Studio\ProgramsTest\TestPrograms\DelegatesReuse\obj\Debug\DelegatesReuse.exe
+E:\Visual_Studio\ProgramsTest\TestPrograms\DelegatesReuse\obj\Debug\DelegatesReuse.pdb
